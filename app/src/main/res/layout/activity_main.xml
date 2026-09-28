@@ -113,19 +113,19 @@
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="@string/btn_4"/>
+            android:text="@string/btn_7"/>
         <Button
             android:id="@+id/btn8"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="@string/btn_5"/>
+            android:text="@string/btn_8"/>
         <Button
             android:id="@+id/btn9"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="@string/btn_6"/>
+            android:text="@string/btn_9"/>
     </LinearLayout>
     <LinearLayout
         android:id="@+id/rowNumbers4"
