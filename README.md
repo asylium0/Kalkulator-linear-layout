@@ -9,5 +9,6 @@
 <img width="457" height="897" alt="obraz" src="https://github.com/user-attachments/assets/2024d2e7-0af1-4fae-9840-5156449cbdda" />
 
 ## W czym łatwiej?
-Łatwiej i szybciej kalkulator było napisać w Linear layout które ma 30 linii mniej (Linear layout - 161, Constraint layou - 193) i jest mniej pisania, nie trzeba tworzyć powiązań dla każdego łańcucha (rzędu)
+Łatwiej i szybciej kalkulator było napisać w Linear layout które ma 30 linii mniej (Linear layout - 161, Constraint layou - 193) i jest mniej pisania, nie trzeba tworzyć powiązań dla każdego łańcucha (rzędu).
+Gdyby była potrzeba dodania nowego pola o wiele łatwiej byłoby to zrobić w linear layout ponieważ nie trzeba by ustawiać dla niego powiązań i zmieniać paddingów
 
